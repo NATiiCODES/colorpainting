@@ -1,0 +1,42 @@
+.canvas {
+    width: 500px;
+    height: 600px;
+    background-color: #2e94b9;
+    overflow: hidden;
+
+}
+
+.frame {
+    border: 50px solid #2e94b9;
+    width: 500px;
+    padding: 50px;
+    margin: 20px auto;
+
+}
+
+.one {
+    width: 415px;
+    height: 150px;
+    background-color: #fffdc1;
+    margin: 20px auto;
+    box-shadow: 0 0 3px 3px #fffdc1;
+    border-radius: 9px;
+}
+
+.two {
+    width: 415px;
+    height: 160px; 
+    background-color: #f0b775;
+    margin: 0 auto 20px;
+    box-shadow: 0 0 3px 3px #f0b775;
+    border-radius: 8px 10px;
+}
+
+.three {
+    width: 415px;
+    height: 200px;
+    background-color: #D25565;
+    margin: 0 auto 20px;
+    box-shadow: 0 0 5px 5px #D25565;
+    border-radius: 8px 10px;
+}
